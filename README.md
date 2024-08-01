@@ -1,5 +1,8 @@
 Tic Tac Toe
 
+![image](https://github.com/user-attachments/assets/02dd90a2-a5fb-4ad1-9df3-2f79f1ec2a91)
+
+
 A simple tic tac toe game written in C# using .NET Winforms framework.
 The game features a basic gameplay. 'X' for the player and 'O' for the AI.
 
